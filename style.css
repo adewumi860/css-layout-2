@@ -1,0 +1,1023 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.form{
+    background-color: #1A73E8;
+    padding: 50px;
+    color: white;
+}
+.xot{
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-right: 50px;
+}
+.hot8{
+    border-radius: 20px;
+}
+.moot2div{
+    display: flex;
+    
+}
+.moot2img{
+    margin: 35px 20px;
+}
+.mile{
+    margin-left: 50px;
+}
+.milk{
+    margin-left: 50px;
+    display:  flex;
+    
+}
+.oem{
+    background-color: #F5F6F7;
+}
+.ape{
+    justify-self: center;
+    background-color: #F5F6F7;
+}
+.a1{
+    margin-left: 50px;
+    background-color: whiteb;
+}
+.ape2{
+   background-color: #f5f6f7; 
+}
+.NIN{
+    font-size: 35px;    
+    font-weight: 500;
+}
+.mini{
+    width: 700px;
+    height: 40px;
+    border-radius: 20px;
+    font-size: 30px; 
+}
+.pem{
+      margin-left: 50px;
+       margin-bottom: 40px;
+}   
+.fintech{
+    width: 600px;
+    height: 40px;
+    border-radius: 20px;
+    font-size: 30px; 
+}
+input{
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    font-size: 30px;
+    
+}
+.hope{
+    margin-left: 30px;
+}
+.hot{
+    background-color: #F5F6F7;
+    width: 450px;
+    height: 550px;
+    color: black;
+    padding: 50px;
+}
+.oop{
+    margin-left: 95px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+    
+}
+.heap{
+    font-size: 25px;
+    font-weight: 400;
+}
+.wop{
+    margin-left: 95px;
+}
+.ehn{
+    font-size: 20px;
+    font-weight: 400;
+}
+.wine{
+    color: black;
+    font-size: 20px;
+}
+.mop{
+    font-size: 40px;
+    display: inline;
+    margin-right: 300px;
+}
+.hot2{
+    background-color: #F5F6F7;
+    color: black;
+    width: 450px;
+    height: 550px;
+    padding: 50px;
+    margin-bottom: 20px;
+}
+.wip{
+    width: 200px;
+    height: 60px;
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    padding: 10px 10px;
+}
+.hot3{
+    background-color: #F5F6F7;
+    color: black;
+    width: 450px;
+    height: 570px;
+    padding: 50px;
+    margin-bottom: 20px;
+}
+.nop{
+    font-size: 28px;
+    
+}
+.wait{
+    font-size: 40px;
+    text-decoration: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: black;
+
+}
+.hot4{
+    background-color: #F5F6F7;
+    color: black;
+    width: 450px;
+    height: 570px;
+    padding: 50px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+.rot{
+    color: black;
+}
+.mit5{
+    font-size: 20px;
+    font-weight: 400;
+}
+.hot5{
+    background-color: #F5F6F7;
+    color: black;
+    width: 450px;
+    height: 570px;
+    padding: 50px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+.kj{
+    background-color: #f5f6f7;
+}
+.munk{
+    margin-left: 95px;
+    background-color: #f5f6f7;
+    display: flex;
+    margin-bottom: 20px;
+    flex-direction: row;
+    padding: 20px 20px; 
+}
+.hot22{
+     background-color: #f5f6f7;
+    color: black;
+    width: 450px;
+    height: 570px;
+    padding: 50px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+.yyy{
+    margin-top: 100px;
+}
+.pppp{
+    margin-top: 100px;
+}
+.wer{
+    font-size: 20px;
+    font-weight: 500;
+}
+.tio{
+    font-size: 20px;
+    font-weight: 500;
+}
+.oooip{
+    margin-right: 20px;
+       background-color: #f5F6f7;
+    color: black;
+    width: 500px;
+    height: 570px;
+    padding: 50px;
+    margin-bottom: 20px;
+    margin-right: 30px;
+}
+
+.edd{
+    font-size: 20px;
+    font-weight: 600;
+}
+.riip{
+    display: flex;
+}
+.toop{
+    display: flex;
+}
+.ai{
+    font-size: 30px;
+    margin-top: 100px;
+}
+.www{
+    color: #f5F6f7;
+    width: 450px;
+    height: 570px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+.bi{
+    font-size: 28px;
+    font-weight: 500;
+}
+.hoop{
+       background-color: #f5F6f7;
+    color: black;
+    width: 450px;
+    height: 570px;
+    padding: 50px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
+}
+.di{
+    border: 2px solid black;
+    border-radius: 20px;
+    width: 200px;
+    height: 50px;
+}
+.ci{
+    font-size:  20px;
+    font-weight: 500;
+}
+.fi{
+    font-size: 20px;
+    font-weight: 200;
+}
+.pip{
+    font-size: 20px;
+    font-weight: 300;
+}
+.ri{
+    font-size: 35px;
+    font-weight: 400;
+}
+.gi{
+    font-size: 30px;
+    font-weight: 200;
+}
+.coop{
+    width: 500px;
+    height: 570px;
+    background-color: #f5F6f7;
+    border-radius: 20px;
+    margin-right: 20px;
+
+}
+.lop{
+    font-size: 30px;
+    font-weight: 500;
+    margin-top: 100px;
+}
+.nnip{
+    width: 450px;
+    height: 570px;
+    background-color: #ffff;
+    border-radius: 20px;
+    
+}
+.nnam{
+     width: 450px;
+    height: 570px;
+    background-color: #f5f6f7;
+    border-radius: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
+}
+.tem{
+    font-size: 30px;
+    font-weight: 300;
+}
+.zip{
+    margin-bottom: 30px;
+}
+.vam{
+    font-size: 60px;
+    font-weight: 500;
+    justify-self: center;
+    font-family: sans-seri;
+}
+.zam{
+    font-size: 30px;
+    font-weight: 300;
+}
+.oem{
+    justify-self: center;
+}
+.jem{
+    font-size: 20px;
+    font-weight: 400;
+}
+.kem{
+    font-size: 30px;
+    font-weight: 300;
+}
+.lem{
+    font-size: 20px;
+    font-weight: 200;
+}
+.zem{
+       width: 450px;
+    height: 570px;
+    background-color: #f5f6f7;
+    border-radius: 20px;
+    margin-right: 20px;
+    border-radius: 20px;  
+}
+.hot55{
+     width: 450px;
+    height: 570px;
+    background-color: #f5F6f7;
+    border-radius: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
+}
+.oat{
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    border: 2px solid black;
+    font-size: 30px;
+    font-weight: 300;
+}
+.hin{
+    font-size: 40px;
+    font-weight: 500;
+}
+.rema{
+    font-size: 20px;
+    font-weight: 500;
+}
+.fem{
+    font-size: 20px;
+    font-weight: 500px;
+}
+.dem{
+    font-size: 30px;
+    font-weight: 500px;
+}
+.tip{
+    font-size: 40px;
+    font-weight: 400;
+}
+.rim{
+    font-size: 20px;
+    font-weight: 400;
+}
+.mann{
+    display: flex;
+    margin-left: 95px;
+    background-color: #f5F6f7;
+}
+.vt{
+    font-size: 30px;
+    font-weight: 400;
+    border-radius: 10px;
+}
+.itt{
+    width: 200px;
+    height: 40px;
+
+}
+.nnmm{
+    display: flex;
+}
+.gtt{
+    font-size: 40px;
+    font-weight: 400;
+    margin-top: 100px;
+}
+.zip{
+    margin-left: 95px;
+    display: flex;
+}
+.kop{
+    font-size: 20px;
+    font-weight: 500;
+    color: black;
+}
+.rop{
+    font-size: 30px;
+    font-weight: 200;
+}
+.oiu{
+    font-size: 20px;
+    font-weight: 500;
+}
+.ddd{
+    font-size: 20px;
+    font-weight: 500;
+    color: black;
+}
+.err{
+    margin-left: 95px;
+    background-color: #f5F6f7;
+
+}
+.z{
+      background-color: #ffff;
+    color: black;
+    width: 450px;
+    height: 570px;
+    padding: 50px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+.oooo{
+    font-size: 25px;
+    font-weight: 500;
+}
+.yuu{
+    font-size: 20px;
+    font-weight: 500;
+}
+.ttty{
+    font-size: 25px;
+    font-weight: 400;
+}
+.fgf{
+    font-size: 25px;
+    font-weight: 500;
+}
+.ll{
+    font-size: 30px;
+    font-weight: 400;
+}
+.gap{
+    font-size: 20px;
+    font-weight: 400;
+}
+.zzz{
+    width: 450px;
+}
+.aq{
+    font-size: 30px;
+    font-weight: 400;
+}
+.rttu{
+    margin-right: 20px;
+}
+.uiy{
+    font-size: 20px;
+    font-weight: 300;
+}
+.miin{
+      width: 200px;
+    height: 50px;
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    padding: 10px 10px;
+}
+.err{
+    margin-bottom: 30px;
+}
+.fon{
+    margin-top: 100px;
+    font-size: 35px;
+    font-weight: 400;
+}
+.rttt{
+    margin-left: 95px;
+    display: flex;
+}
+.jjj{
+    font-size: 30px;
+    font-weight: 400;
+}
+.tht{
+    font-size: 30px;
+    font-weight: 400;
+}
+.loong{
+    font-size: 30px;
+    font-weight: 400;
+}
+.qqqq{
+    font-size: 25px;
+    font-size: 400;
+}
+.ccc{
+    font-size: 30px;
+    font-weight: 400;
+}
+.bnb{
+    font-weight: 400;
+    font-size: 20px;
+}
+.dddd{
+    font-size: 20px;
+    font-weight: 400;
+}
+.ui{
+    font-size: 30px;
+    font-weight: 400;
+}
+.hotaa{
+       background-color: #f5f6f7;
+    color: black;
+    width: 450px;
+    height: 570px;
+    padding: 50px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    
+}
+.mit33{
+      width: 200px;
+    height: 60px;
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    padding: 10px 10px;
+}
+.rrr{
+    font-size: 25px;
+    font-weight: 500;
+
+}
+.hhh{
+    font-size: 45px;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+.hot6{
+     background-color: #F5F6F7;
+    color: black;
+    width: 450px;
+    height: 570px;
+    padding: 50px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    
+}
+.weat{
+    font-size: 20px;
+    font-weight: 400;
+}
+.mit7{
+    font-size: 20px;
+    margin: 20px;
+}
+.moon{
+    color: black;
+}
+.min{
+    margin-top: 20px;
+    font-size: 20px;
+}
+.set{
+    margin-top: 20px;
+    font-size: 20px;
+}
+.set2{
+    margin-top: 20px;
+    font-size: 20px;
+}
+.nn{
+    color: black;
+}
+.note{
+    border: 4px solid #87A8DA   ;
+    font-size: 25px;
+    margin-left: 30px;
+    width: 200px;
+    height: 60px;
+    border-radius: 20px;
+}
+.wet{
+    font: 200;
+    font-size: 35px;
+    color: black;
+    list-style: none;
+}
+.mit{
+    width: 200px;
+    height: 60px;
+    border-radius: 20px;
+    border: 4px solid #87A8DA;
+    margin-left: 30px;
+    font-size: 25px;
+    margin-top: 30px;
+}
+.hot{
+    border-radius: 20px;
+}
+.hot2{
+    border-radius: 20px;
+}
+.hot3{
+    border-radius: 20px;
+}
+.hot4{
+    border-radius: 20px;
+}
+.hot5{
+    border-radius: 20px;
+}
+.hot6{
+    border-radius: 20px;
+}
+.moot{
+    margin-left: 95px;
+    display: flex;
+
+}
+.hot9{
+    border-radius: 20px;
+}
+.hot10{
+    border-radius: 20px;
+}
+.moot2{
+    margin-left: 95px;
+    background-color: #F5F6F7;
+    margin-bottom: 20px;
+}
+.rin{
+    display: flex;
+    border-radius: 20px;
+}
+.root{
+    font-size: 35px;
+    font-weight: 400;
+}
+.malt{
+    font-size: 20px;
+    font-weight: 400;
+}
+.base{
+    font-size: 60px;
+    font-weight: 800;
+    display: inline;
+    margin-right: 300px;
+}
+.gen{
+    margin-left: 95px;
+    margin-bottom: 20px;
+}
+.was{
+     width: 200px;
+    height: 60px;
+    border-radius: 20px;
+    border: 4px solid white;
+    margin-left: 30px;
+    font-size: 25px;
+    margin-top: 30px;
+}
+.mit11{
+     width: 200px;
+    height: 60px;
+    border-radius: 20px;
+    border: 4px solid #87A8DA;
+    margin-left: 30px;
+    font-size: 25px;
+    margin-top: 30px;    
+}
+.mit13{
+       width: 200px;
+    height: 60px;
+    border-radius: 20px;
+    border: 4px solid #87A8DA;
+    margin-left: 30px;
+    font-size: 25px;
+    margin-top: 30px;    
+}
+.mat{
+    color: black;
+    font: 400;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.lot{
+    font-size: 20px;
+    font-weight: 400;
+}
+.mit12{
+     width: 200px;
+    height: 60px;
+    border-radius: 20px;
+    border: 4px solid #87A8DA;
+    margin-left: 30px;
+    font-size: 25px;
+    margin-top: 30px;
+}
+.mit15{
+         width: 200px;
+    height: 60px;
+    border-radius: 20px;
+    border: 4px solid #87A8DA;
+    margin-left: 30px;
+    font-size: 25px;
+    margin-top: 30px; 
+}
+.mpp{
+    font-size: 60px;
+    font-weight: 800;
+}
+.myth{
+    display: ;
+    margin-right: 100px;
+    font-size: 20px;
+    font-weight: 400;
+}
+.mot3{
+    margin-left: 95px;
+}
+.moot3{
+    margin-left: 95px;
+    background-color: #ffff;
+    display: flex;
+    margin-bottom: 20px;
+    flex-direction: row;
+}
+.a{
+    width: 200px;
+    height: 60px;
+    border-radius: 20px;
+    border: 4px solid #87A8DA;
+    margin-left: 300px;
+    font-size: 25px;
+    margin-top: 30px; 
+}
+.rot{
+    width: 450px;
+    height: 550px;
+    margin-right: 20px;
+    background-color: white;
+    margin-bottom: 20px;
+}
+.iii{
+    font-size: 25px;
+    font-weight: 500;
+    margin-top: 200px;
+}
+.c{
+    font-size: 20px;
+    font-weight: 500;
+    
+}
+.g{
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 200px;
+}
+.j{
+    font-size: 25px;
+    font-weight: 400;
+}
+.i{
+    font-size: 20px;
+    font-weight: 400;
+}
+.h{
+    font-size: 20px;
+    font-weight: 400;
+}
+.f{
+     width: 450px;
+    height: 550px;
+    margin-right: 20px;
+    background-color: white;
+    margin-bottom: 20px;
+}
+.e{
+    font-weight: 400;
+    font-size: 20px;
+}
+.d{
+    color: black;
+    font-size: 30px;
+    font-weight: 400;
+}
+.rqq{
+      width: 450px;
+    height: 500px;
+    margin-right: 20px;
+    background-color: white;
+}
+.pin{
+    padding: 60px 60px;
+     background-color: white;
+    color: black;
+    width: 1500px;
+    height: 600px;
+    /* padding: 50px; */
+    margin-bottom: 20px;
+    margin-right: 20px;
+    display: flex;
+    flex-direction: row;
+}
+.mut{
+    font-size: 25px;
+    font-weight: 500;
+    
+}
+.eat{
+    font-size: 40px;
+    font-weight: 400;
+    font-family: san;
+    margin-top: 200px;
+}
+.b{
+     width: 200px;
+    height: 60px;
+    background-color: #F5F6F7;
+    color: black;
+    border-radius: 25px;
+    border: 2px solid #87A8DA;
+    margin-left: 30px;
+    font-size: 25px;
+    margin-top: 30px; 
+}
+.mit2{
+    width: 200px;
+    height: 60px;
+    border-radius: 20px;
+    border: 4px solid #87A8DA;
+    margin-left: 30px;
+    font-size: 25px;
+    margin-top: 30px;
+}
+.hot8{
+      background-color: #F5F6F7;
+    color: black;
+    width: 450px;
+    height: 570px;
+    padding: 50px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}.bus{
+    font-size: 30px;
+    font-weight: 400;
+}
+.hot10{
+       background-color: #F5F6F7;
+    color: black;
+    width: 450px;
+    height: 570px;
+    padding: 50px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+.you{
+    font-size: 20px;
+    font-weight: 400;
+}
+.hot9{
+       background-color: #F5F6F7;
+    color: black;
+    width: 450px;
+    height: 570px;
+    padding: 50px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+.mit6{
+     width: 200px;
+    height: 60px;
+    border-radius: 20px;
+    border: 4px solid #87A8DA;
+    margin-left: 30px;
+    font-size: 25px;
+    margin-top: 30px;
+}
+.mit3{
+    width: 200px;
+    height: 60px;
+    border-radius: 20px;
+    border: 4px solid #87A8DA;
+    margin-left: 30px;
+    font-size: 25px;
+    margin-top: 30px;
+}
+.man{
+    font-size: 70px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: sans-serif;
+}
+.fort{
+    font-size: 25px;
+}
+.nit{
+    font-size: 40px;
+    text-decoration: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.vic{
+    margin-left:  95px;
+    gap: 20px;
+    display: flex;
+    flex-direction: row;
+}
+.vot{
+    flex-direction: row;
+    font-size: 20px;
+    display: flex;
+    text-align: center;
+    gap: 30px;
+    /* margin-left: 300px; */
+}
+.pem{
+    margin-left: 50px;
+}
+.p{
+    /* margin-right: 30px; */
+    margin-top: 25px;
+    text-align: center;
+
+}
+.wpp{
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    margin-left: 100px;
+    border: 2px solid black;
+
+}
+.hen{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    display: flex;
+    flex-direction: row;
+
+}
+.gitinit{
+    font-size: 20px;
+    font-weight: 400;
+}
+.o{
+    font-size: 30px;
+    font-weight: 500;
+}
+.x{
+    font-size: 20px;
+    font-weight: 500;
+}
+.t{
+    font-size: 20px;
+    font-weight: 500;
+}
+.rnn{
+    font-size: 25px;
+    font-weight: 500;
+}
+.oip{
+    font-size: 20px;
+    font-weight: 500;
+}
+.qqq{
+    font-size: 20px;
+    font-weight: 500;
+}
+.p{
+    /* position: fixed; */
+}
+.vot{
+    
+}
+.wen{
+    font-size: 20px;
+    font-weight: 300;
+}
+.mmmm{
+    margin-left: 30px;
+    width: 200px;
+    height: 40px;
+    background-color: white;
+    border-radius: 0px;
+    margin-right: 10px;
+    margin-bottom: 8px;
+
+}
+.form{
+    margin-bottom: 20px;
+}
+.top{
+    display: block;
+}
