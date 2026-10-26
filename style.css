@@ -4,10 +4,20 @@
     box-sizing: border-box;
 }
 
+.hint{
+    margin-top: 0px;
+    background-color: white;
+}
 .form{
     background-color: #1A73E8;
     padding: 50px;
     color: white;
+    /* margin-left: 95p; */
+     /* margin-top: 60px;  */
+    /* color: white; */
+}
+.da{
+    margin-left: 55px;
 }
 .xot{
     margin-top: 50px;
@@ -944,7 +954,7 @@ input{
     /* margin-left: 300px; */
 }
 .pem{
-    margin-left: 50px;
+    margin-left: 95px;
 }
 .p{
     /* margin-right: 30px; */
@@ -995,8 +1005,13 @@ input{
     font-size: 20px;
     font-weight: 500;
 }
-.p{
+.nav{
     /* position: fixed; */
+    /* right: 0px; */
+    /* left: 0px; */
+    /* background-color: white; */
+    /* padding: 20px; */
+    /* margin-bottom: 20px; */
 }
 .vot{
     
@@ -1020,4 +1035,7 @@ input{
 }
 .top{
     display: block;
+}
+body{
+    font-family: sans-serif;
 }
